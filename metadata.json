@@ -1,0 +1,6 @@
+{
+  "name": "Kael: The Water King",
+  "description": "An epic 3D underwater action-adventure RPG following Kael from Level 1 to 50 across 5 chapters, mastering ancient water magic and confronting betrayers and Morgana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
